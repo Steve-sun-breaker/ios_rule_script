@@ -1,0 +1,13 @@
+# NAME: Star+
+# AUTHOR: Steve
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+payload:
+-DOMAIN-SUFFIX,starott.com
+-DOMAIN-SUFFIX,starplus.com
+-DOMAIN-SUFFIX,star.api.edge.bamgrid.com
+-DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
+-DOMAIN-SUFFIX,star.content.edge.bamgrid.com
+-DOMAIN-SUFFIX,star.playback.edge.bamgrid.com
+-DOMAIN-KEYWORD,Star+
